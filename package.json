@@ -42,7 +42,7 @@
     "systemjs": "0.19.43",
     "tsickle": "^0.32.0",
     "tslib": "^1.9.3",
-    "zone.js": "CaerusKaru/zone.js#adam\/27"
+    "zone.js": "CaerusKaru/zone.js#adam/27"
   },
   "devDependencies": {
     "@angular/animations": "^7.2.0",
@@ -64,6 +64,7 @@
     "@types/gulp": "3.8.32",
     "@types/hammerjs": "^2.0.34",
     "@types/jasmine": "^2.8.14",
+    "@types/jasminewd2": "^2.0.6",
     "@types/merge2": "^0.3.30",
     "@types/minimist": "^1.2.0",
     "@types/node": "^7.10.1",
